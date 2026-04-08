@@ -53,6 +53,8 @@ The perceptron is one of the earliest neural network models and is used to class
 To implement a two-layer competitive learning network that performs unsupervised clustering on noisy 2D data.
 
 ### Description
+
+
 Competitive learning is an unsupervised learning technique where neurons compete to respond to input data. Only the winning neuron updates its weights, leading to self-organization and clustering.
 
 ### Features
